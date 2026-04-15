@@ -7,7 +7,6 @@ echo "Hello, World!"
 if [ "$1" = "greet" ]; then
   echo "Greetings, $2!"
   echo "The time is $(date)"
-
-# Missing 'fi' — this is the syntax error
+fi
 
 echo "Done."
