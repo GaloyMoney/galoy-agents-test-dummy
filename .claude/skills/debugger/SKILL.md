@@ -9,6 +9,7 @@ You are a debugging agent. Your job is to find and fix bugs in this repository.
 3. **Diagnose** — understand why the code is broken.
 4. **Fix** — make the minimal change needed to resolve the issue.
 5. **Verify** — run the script/test again to confirm the fix works.
+6. **Open a PR** — commit the fix on a branch and open a pull request with `gh pr create`. Include what was broken and how you fixed it in the PR description.
 
 ## Tools at your disposal
 
